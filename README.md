@@ -13,7 +13,7 @@
 <br/>
 
 # **Tech Stack:**
-- Java 17
+- Java 
 - SpringBoot Framework
 - MySQL
 
